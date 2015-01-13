@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="4.8.4 -mcpu=cortex-m0 -mthumb -g -nostartfiles -Map=STM32F0Dis.map -O1 --gc-sections -LC:\CooCox\CoIDE\configuration\ProgramData\STM32F0Dis -TC:\CooCox\CoIDE\configuration\ProgramData\STM32F0Dis/arm-gcc-link.ld -g">
+      <target file="STM32F0Dis.elf" lastModified="14add9b7f30">
+         <source file="..\obj\stm32f0xx_rcc.o" lastModified="14add9b734c"/>
+         <source file="..\obj\stm32f0xx_adc.o" lastModified="14add9b73f5"/>
+         <source file="..\obj\main.o" lastModified="14add9b7789"/>
+         <source file="..\obj\startup_stm32f0xx.o" lastModified="14add9b77b0"/>
+         <source file="..\obj\stm32f0xx_spi.o" lastModified="14add9b7868"/>
+         <source file="..\obj\system_stm32f0xx_temp.o" lastModified="14add9b78dd"/>
+         <source file="..\obj\stm32f0xx_gpio.o" lastModified="14add9b796a"/>
+         <source file="..\obj\stm32f0xx_usart.o" lastModified="14add9b7a3f"/>
+         <source file="..\obj\stm32f0xx_tim.o" lastModified="14add9b7b94"/>
+         <source file="..\obj\stm32f0xx_flash.o" lastModified="14add9b7c4d"/>
+         <source file="..\obj\stm32f0xx_misc.o" lastModified="14add9b7cbf"/>
+      </target>
+   </processor>
+</history>

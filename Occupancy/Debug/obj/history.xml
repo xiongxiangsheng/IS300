@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc noversion nomachine -mcpu=cortex-m0 -mthumb -Wall -ffunction-sections -g -O1 -c -DSTM32F051R8 -DSTM32F0XX_MD -DUSE_STDPERIPH_DRIVER -D__ASSEMBLY__ -ID:\Project\OutdoorMotion\Prog\CooCox\IS300\stm32_lib -ID:\Project\OutdoorMotion\Prog\CooCox\IS300\stm32_lib\inc -ID:\Project\OutdoorMotion\Prog\CooCox\IS300\cmsis_core -ID:\Project\OutdoorMotion\Prog\CooCox -ID:\Project\OutdoorMotion\Prog\CooCox\IS300 -ID:\Project\OutdoorMotion\Prog\CooCox\IS300\cmsis_boot">
+      <target file="stm32f0xx_spi.o" lastModified="14add984048">
+         <source file="..\..\..\stm32_lib\src\stm32f0xx_spi.c" lastModified="14add960009"/>
+      </target>
+      <target file="stm32f0xx_gpio.o" lastModified="14add984159">
+         <source file="..\..\..\stm32_lib\src\stm32f0xx_gpio.c" lastModified="14add9561b2"/>
+      </target>
+      <target file="stm32f0xx_rcc.o" lastModified="14add983bc5">
+         <source file="..\..\..\stm32_lib\src\stm32f0xx_rcc.c" lastModified="14add956212"/>
+      </target>
+      <target file="stm32f0xx_flash.o" lastModified="14add98446f">
+         <source file="..\..\..\stm32_lib\src\stm32f0xx_flash.c" lastModified="14add95b68a"/>
+      </target>
+      <target file="stm32f0xx_usart.o" lastModified="14add984232">
+         <source file="..\..\..\stm32_lib\src\stm32f0xx_usart.c" lastModified="14add95c48e"/>
+      </target>
+      <target file="stm32f0xx_misc.o" lastModified="14add9844d6">
+         <source file="..\..\..\stm32_lib\src\stm32f0xx_misc.c" lastModified="14add9628e3"/>
+      </target>
+      <target file="stm32f0xx_adc.o" lastModified="14add983c78">
+         <source file="..\..\..\stm32_lib\src\stm32f0xx_adc.c" lastModified="14add957b3f"/>
+      </target>
+      <target file="main.o" lastModified="14add983f74">
+         <source file="..\..\..\main.c" lastModified="14adced34e6"/>
+      </target>
+      <target file="stm32f0xx_tim.o" lastModified="14add98438f">
+         <source file="..\..\..\stm32_lib\src\stm32f0xx_tim.c" lastModified="14add966886"/>
+      </target>
+      <target file="startup_stm32f0xx.o" lastModified="14add983f8f">
+         <source file="..\..\..\cmsis_boot\startup\startup_stm32f0xx.s" lastModified="14add952887"/>
+      </target>
+      <target file="system_stm32f0xx_temp.o" lastModified="14add9840d0">
+         <source file="..\..\..\cmsis_boot\system_stm32f0xx_temp.c" lastModified="14add952932"/>
+      </target>
+   </processor>
+</history>

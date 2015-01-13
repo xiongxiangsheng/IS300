@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="4.8.4 -mcpu=cortex-m0 -mthumb -g -nostartfiles -Map=Occupancy.map -O1 --gc-sections -LC:\CooCox\CoIDE\configuration\ProgramData\Occupancy -TC:\CooCox\CoIDE\configuration\ProgramData\Occupancy/arm-gcc-link.ld -g">
+      <target file="Occupancy.elf" lastModified="14add984735">
+         <source file="..\obj\stm32f0xx_rcc.o" lastModified="14add983bc5"/>
+         <source file="..\obj\stm32f0xx_adc.o" lastModified="14add983c78"/>
+         <source file="..\obj\main.o" lastModified="14add983f74"/>
+         <source file="..\obj\startup_stm32f0xx.o" lastModified="14add983f8f"/>
+         <source file="..\obj\stm32f0xx_spi.o" lastModified="14add984048"/>
+         <source file="..\obj\system_stm32f0xx_temp.o" lastModified="14add9840d0"/>
+         <source file="..\obj\stm32f0xx_gpio.o" lastModified="14add984159"/>
+         <source file="..\obj\stm32f0xx_usart.o" lastModified="14add984232"/>
+         <source file="..\obj\stm32f0xx_tim.o" lastModified="14add98438f"/>
+         <source file="..\obj\stm32f0xx_flash.o" lastModified="14add98446f"/>
+         <source file="..\obj\stm32f0xx_misc.o" lastModified="14add9844d6"/>
+      </target>
+   </processor>
+</history>
